@@ -36,6 +36,7 @@
 | 🦾 **[Prosthetic Robotic Arm](https://github.com/MelbinManoj/prosthetic-robotic-arm)** | Prosthetic arm activated by nerve signals above the elbow | Biosignals · Embedded Systems |
 | 🚗 **[Driver Alcohol Detector](https://github.com/MelbinManoj/driver-alcohol-detector)** | Breath-based alcohol sensing to prevent drunk driving | Gas Sensors · Embedded C · Hardware Design |
 | 🚁 **[Mini Drone](https://github.com/MelbinManoj/mini-drone)** | Compact drone capable of lifting a 20 g payload | Flight Control · Motor Drivers |
+| 📡 **[Arduino UNO IoT Gateway](https://github.com/MelbinManoj/arduino-uno-iot-gateway)** | Arduino Uno reads DHT11 and HC-SR04 sensors and a NodeMCU ESP8266 serves the live readings on a Wi‑Fi web dashboard | Arduino · ESP8266 · IoT · C++ |
 | 🖥️ **[Tech for Schools](https://github.com/MelbinManoj/tech-for-schools)** | Restored unused computers and taught primary students hardware basics and mini-projects | Community Service · Teaching |
 
 ---
