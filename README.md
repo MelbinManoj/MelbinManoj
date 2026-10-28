@@ -30,7 +30,7 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🌱 **[Precision Agriculture using AI](https://github.com/MelbinManoj/precision-agriculture-ai)** | Smart farming system combining AI, thermal cameras and drones to detect and classify crop diseases for early intervention | AI/ML · Thermal Imaging · Drones · Python |
+| 🌱 **[Precision Agriculture using AI](https://github.com/MelbinManoj/precision-agriculture-ai)** | Plant disease detection using a CNN, thermal imaging, Raspberry Pi 5 and an EOT gantry | CNN · Thermal Imaging · Raspberry Pi · Python |
 | 🔋 **[Battery Swapping Station](https://github.com/MelbinManoj/battery-swapping-station)** | EV station that swaps depleted batteries instead of charging, cutting wait time and carbon emissions | Power Electronics · Circuit Design |
 | 💧 **[Smart Irrigation](https://github.com/MelbinManoj/smart-irrigation)** | Automates water and fertilizer delivery on farmland without human intervention | IoT · Sensors · Arduino |
 | 🦾 **[Prosthetic Robotic Arm](https://github.com/MelbinManoj/prosthetic-robotic-arm)** | Prosthetic arm activated by nerve signals above the elbow | Biosignals · Embedded Systems |
