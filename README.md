@@ -30,15 +30,13 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🌱 **Precision Agriculture using AI** | Smart farming system combining AI, thermal cameras and drones to detect and classify crop diseases for early intervention | AI/ML · Thermal Imaging · Drones · Python |
-| 🔋 **Battery Swapping Station** | EV station that swaps depleted batteries instead of charging, cutting wait time and carbon emissions | Power Electronics · Circuit Design |
-| 💧 **Smart Irrigation** | Automates water and fertilizer delivery on farmland without human intervention | IoT · Sensors · Arduino |
-| 🦾 **Prosthetic Robotic Arm** | Prosthetic arm activated by nerve signals above the elbow | Biosignals · Embedded Systems |
-| 🚗 **Driver Alcohol Detector** | Breath-based alcohol sensing to prevent drunk driving | Gas Sensors · Embedded C · Hardware Design |
-| 🚁 **Mini Drone** | Compact drone capable of lifting a 20 g payload | Flight Control · Motor Drivers |
-| 🖥️ **Tech for Schools** | Restored unused computers and taught primary students hardware basics and mini-projects | Community Service · Teaching |
-
-<!-- Tip: once these projects are on GitHub, pin them and turn names into links:  [Smart Irrigation](https://github.com/MelbinManoj/smart-irrigation) -->
+| 🌱 **[Precision Agriculture using AI](https://github.com/MelbinManoj/precision-agriculture-ai)** | Smart farming system combining AI, thermal cameras and drones to detect and classify crop diseases for early intervention | AI/ML · Thermal Imaging · Drones · Python |
+| 🔋 **[Battery Swapping Station](https://github.com/MelbinManoj/battery-swapping-station)** | EV station that swaps depleted batteries instead of charging, cutting wait time and carbon emissions | Power Electronics · Circuit Design |
+| 💧 **[Smart Irrigation](https://github.com/MelbinManoj/smart-irrigation)** | Automates water and fertilizer delivery on farmland without human intervention | IoT · Sensors · Arduino |
+| 🦾 **[Prosthetic Robotic Arm](https://github.com/MelbinManoj/prosthetic-robotic-arm)** | Prosthetic arm activated by nerve signals above the elbow | Biosignals · Embedded Systems |
+| 🚗 **[Driver Alcohol Detector](https://github.com/MelbinManoj/driver-alcohol-detector)** | Breath-based alcohol sensing to prevent drunk driving | Gas Sensors · Embedded C · Hardware Design |
+| 🚁 **[Mini Drone](https://github.com/MelbinManoj/mini-drone)** | Compact drone capable of lifting a 20 g payload | Flight Control · Motor Drivers |
+| 🖥️ **[Tech for Schools](https://github.com/MelbinManoj/tech-for-schools)** | Restored unused computers and taught primary students hardware basics and mini-projects | Community Service · Teaching |
 
 ---
 
